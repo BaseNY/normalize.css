@@ -6,6 +6,7 @@
   "ignore": [
     "CHANGELOG.md",
     "CONTRIBUTING.md",
+    "README.md",
     "component.json",
     "package.json",
     "test.html"
